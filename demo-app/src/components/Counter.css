@@ -1,0 +1,18 @@
+button {
+    margin-right: 3rem;
+    padding:10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   background-color: teal;
+ 
+  }
+  
+  p {
+    text-align: center;
+    width: 20%;
+    margin: auto;
+    padding: 0.1rem 0rem;
+    margin-bottom: 2rem;
+  }
+  
